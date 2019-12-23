@@ -1,0 +1,37 @@
+
+  hr {
+    height: 3px;
+    background: black;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  #tbody td {
+    border: solid 1px black;
+    padding:15px;
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  p{
+    font-size:10px;
+  }
+
+  #todo>p{
+    font-size:16px;
+  }
+
+  caption>p{
+    font-size:20px;
+    margin:0;
+  }
+  h1{
+    margin:0;
+  }
+
+  #text1{
+    margin-top:20px;
+  }
+
